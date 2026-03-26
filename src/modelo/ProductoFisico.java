@@ -15,8 +15,14 @@ public class ProductoFisico extends Producto {
      return precioBase + costoEnvio;
      }
        @Override
-      public void mostrarInformacion() {
-      System.out.println("[Físico] ID: " + getId() + " | " + getNombre() + " | Precio Final: $" + calcularPrecioFinal());
-      }
+     public void mostrarInformacion() {
+        //cambie la sintaxis
+       System.out.println("[Físico] ID: " + getId() +
+                       " | Nombre: " + getNombre() +
+                       " | Stock: " + getCantidadDisponible() + 
+                       " | Peso: " + peso + "kg" +              
+                       " | Envío: $" + costoEnvio +             
+                       " | Precio Final: $" + calcularPrecioFinal());
+     }
 }
   
