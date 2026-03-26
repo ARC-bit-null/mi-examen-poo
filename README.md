@@ -7,7 +7,7 @@ Este repositorio contiene la resolución del examen práctico de POO, desarrolla
 * **@cerial69** - *Colaborador*
 * **@Rubenrck8** - *Colaborador*
 * **@diegotep** - *Colaborador*
-
+* @kev09lc - Colaborador
 
 NOMBRE DE LOS INTEGRANTES
 Reyes Cortes Francisco Angel
