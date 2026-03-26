@@ -16,8 +16,14 @@ public class ProductoDigital extends Producto {
        }
 
    @Override
-     public void mostrarInformacion() {
-       System.out.println("[Digital] ID: " + getId() + " | " + getNombre() + " | Precio Final: $" + calcularPrecioFinal());
-                                        }
+    public void mostrarInformacion() {
+       //cambie la sintaxis
+       System.out.println("[Digital] ID: " + getId() +
+                       " | Nombre: " + getNombre() +
+                       " | Stock: " + getCantidadDisponible() + 
+                       " | Tamaño: " + tamanoMB + "MB" +        
+                       " | Licencia: " + porcentajeLicencia + "%" + 
+                       " | Precio Final: $" + calcularPrecioFinal());
+  }
 }
                         
