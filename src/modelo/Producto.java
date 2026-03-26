@@ -27,8 +27,8 @@ public int getId() {
     public String getNombre() { 
       return nombre; 
     }
-
-    public int getCantidad() {
+        
+    public int getCantidadDisponible() {
       return cantidadDisponible; 
     } 
 
