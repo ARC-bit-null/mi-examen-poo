@@ -1,4 +1,4 @@
-ckage inventario;
+package inventario;
 import modelo.Producto;
 import java.util.ArrayList;
 

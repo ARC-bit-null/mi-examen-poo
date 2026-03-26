@@ -3,7 +3,7 @@ package modelo;
 
 public abstract class Producto {
   private int id;
-  private String nombre
+  private String nombre;
  protected double precioBase;
  private int cantidadDisponible;
 
