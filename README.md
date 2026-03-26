@@ -8,6 +8,14 @@ Este repositorio contiene la resolución del examen práctico de POO, desarrolla
 * **@Rubenrck8** - *Colaborador*
 * **@diegotep** - *Colaborador*
 
+
+NOMBRE DE LOS INTEGRANTES
+Reyes Cortes Francisco Angel
+Emanuel Aguilar Bastida
+Roca Mendoza Ruben Martin 
+García Durán Diego 
+Castañeda Gonzales Kevin
+
 ## 🛠️ Tecnologías y Herramientas
 * **Lenguaje:** Java ☕
 * **Editor:** Neovim / intelilly
