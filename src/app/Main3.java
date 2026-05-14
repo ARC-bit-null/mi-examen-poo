@@ -17,7 +17,7 @@ public class Main {
         Inventario miTienda = new Inventario();
 
         //Aqui se cren los productos que nos dio el profe
-        Producto p1 = new ProductoFisico(0, "Laptop", 10000, 5, 2.5, 300);
+        Producto p1 = new ProductoFisico(0, "Laptop", 20000, 5, 2.5, 300);
         Producto p2 = new ProductoDigital(0, "Videojuego", 500, 10, 15000, 20);
 
         // Agregamos al inventario
